@@ -1,2 +1,2 @@
 # sorting_algorithms
-Sorting Algorithms
+<h1>Sorting Algorithms</h1>
